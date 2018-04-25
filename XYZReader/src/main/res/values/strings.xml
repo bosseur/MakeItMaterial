@@ -8,5 +8,15 @@
     <string name="action_share">Share</string>
 
     <string name="up">Up</string>
+    <string name="date_format">yyyy-MM-dd\'T\'HH:mm:ss.sss</string>
+    <string name="article_title_text">Some arbitrary title for some stupid article for the
+        exercise, Some arbitrary title for some stupid article for the
+        exercise, Some arbitrary title for some stupid article for the
+        exercise, Some arbitrary title for some stupid article for the
+        exercise</string>
+    <string name="article_text">Stupid article text, Stupid article text, Stupid article
+        text, Stupid article text, Stupid article text, Stupid article text, Stupid article
+        text, Stupid article text, Stupid article text, Stupid article text</string>
+    <string name="app_logo">Application logo</string>
 
 </resources>

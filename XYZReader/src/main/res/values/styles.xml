@@ -15,14 +15,38 @@
      limitations under the License.
 -->
 
+
 <resources>
 
     <style name="Theme.Bacon" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
 
+    <style name="ToolbarStyle" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <!-- Customize color of navigation drawer icon and back arrow -->
+        <item name="layout_collapseMode">pin</item>
+        <item name="titleTextColor">@color/toolbar_title_color</item>
+        <item name="android:textColor">@color/toolbar_title_color</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="ToolBarExpandedStyle" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
+
+    <style name="ToolBarCollapsedStyle" parent="@android:style/TextAppearance">
+        <item name="titleTextColor">@color/toolbar_title_color</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <style name="Theme.Bacon.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
+
     </style>
 
 </resources>

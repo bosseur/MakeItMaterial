@@ -16,10 +16,17 @@
 -->
 
 <resources>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#c41c00</color>
+    <color name="colorPrimaryLight">#ff8a50</color>
+    <color name="colorPrimaryText">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="toolbar_title_color">#FFF</color>
+
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#04561A</color>
-    <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+    <color name="article_title_color">#000</color>
+    <color name="article_text_color">#6000</color>
 </resources>
