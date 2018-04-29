@@ -20,9 +20,10 @@
     <color name="colorPrimaryDark">#c41c00</color>
     <color name="colorPrimaryLight">#ff8a50</color>
     <color name="colorPrimaryText">#000000</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#dd2c00</color>
 
     <color name="toolbar_title_color">#FFF</color>
+    <color name="toolbar_color_control_normal">#FFF</color>
 
     <color name="photo_placeholder">#ccc</color>
 

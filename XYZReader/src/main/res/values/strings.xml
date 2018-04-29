@@ -18,5 +18,14 @@
         text, Stupid article text, Stupid article text, Stupid article text, Stupid article
         text, Stupid article text, Stupid article text, Stupid article text</string>
     <string name="app_logo">Application logo</string>
+    <string name="transition_photo">transitionphoto</string>
+    <string name="done_loading">Done loading</string>
+    <string name="byline_sample">Byline sample</string>
+    <string name="article_sample">Article sample text Article sample text Article sample text
+    Article sample text Article sample text Article sample text Article sample text Article sample text Article sample text
+    Article sample text Article sample text Article sample textArticle sample text Article sample text Article sample text
+    Article sample text Article sample text Article sample textArticle sample text Article sample text Article sample text
+    Article sample text Article sample text Article sample text</string>
+    <string name="sample_title">Sample article title</string>
 
 </resources>
